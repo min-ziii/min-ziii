@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-   <!-- <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo.gif" /> -->
+   <img width="800px" src="https://github.com/min-ziii/min-ziii/blob/main/logo.gif" />
+   <img src="https://github-readme-stats.vercel.app/api?username=min-ziii&show_icons=true&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=min-ziii&layout=compact" />
 </div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
 <div align="center">
@@ -55,7 +57,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
@@ -86,9 +87,3 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/smin2333@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={min-ziii}&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={min-ziii})
