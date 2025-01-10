@@ -86,3 +86,9 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/smin2333@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={min-ziii}&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={min-ziii})
