@@ -75,14 +75,16 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://www.notion.so/Profile-177362560a0c805c882dd16a3aee5a04" style="display: inline-block;">
+  <a href="https://www.notion.so/Profile-177362560a0c805c882dd16a3aee5a04" style="display: block;">
     <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>&nbsp;
-   <a href="mailto:smin233@gmail.com">
-    <img
-      src="https://img.shields.io/badge/smin233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="mailto:smin2333@naver.com" style="display: inline-block;">
+  <br>
+  <a href="mailto:smin233@gmail.com" style="display: block;">
+    <img
+      src="https://img.shields.io/badge/smin233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <br>
+  <a href="mailto:smin2333@naver.com" style="display: block;">
     <img src="https://img.shields.io/badge/smin2333@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
