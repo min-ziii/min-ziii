@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align="center">
    <img src="https://github.com/min-ziii/min-ziii/blob/main/git_logo.gif" />
+   <img src="https://github-readme-stats.vercel.app/api?username=min-ziii&show_icons=true&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=min-ziii&layout=compact" />
 </div>
 
 <!--내용 부분-->
