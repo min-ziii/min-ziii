@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-  
+   <!-- <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo.gif" /> -->
 </div>
 
 <!--내용 부분-->
