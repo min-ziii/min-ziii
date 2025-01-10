@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **min-ziii/min-ziii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-   <img width="800px" src="https://github.com/min-ziii/min-ziii/blob/main/logo.gif" />
+   <img src="https://github.com/min-ziii/min-ziii/blob/main/logo.gif" />
    <img src="https://github-readme-stats.vercel.app/api?username=min-ziii&show_icons=true&theme=radical" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=min-ziii&layout=compact" />
 </div>
