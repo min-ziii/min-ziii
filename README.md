@@ -80,6 +80,7 @@ Here are some ideas to get you started:
   <a href="https://www.notion.so/Profile-177362560a0c805c882dd16a3aee5a04">
     <img src="https://img.shields.io/badge/Profile-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
+  <br>
   <a href="mailto:smin2333@naver.com">
     <img
       src="https://img.shields.io/badge/smin2333@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
