@@ -51,13 +51,12 @@ Here are some ideas to get you started:
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -65,18 +64,21 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://www.notion.so/Profile-177362560a0c805c882dd16a3aee5a04">
-    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
-  </a>
-  <br>
-  <a href="mailto:smin2333@naver.com">
-    <img
-      src="https://img.shields.io/badge/smin2333@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
+  <a href="https://www.notion.so/Profile-177362560a0c805c882dd16a3aee5a04" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:smin2333@naver.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/smin2333@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
