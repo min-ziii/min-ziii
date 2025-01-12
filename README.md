@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://www.notion.so/Profile-177362560a0c805c882dd16a3aee5a04" style="display: block;">
+  <a href="https://narrow-cacao-5d2.notion.site/Minji-s-Portfolio-177362560a0c80c8baaae2a9813dba73?pvs=4" style="display: block;">
     <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <br>
